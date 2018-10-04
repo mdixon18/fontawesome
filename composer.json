@@ -1,0 +1,30 @@
+{
+    "name": "mdixon18/fontawesome",
+    "description": "A FontAwesome Nova field.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "fontawesome"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mdixon18\\Fontawesome\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mdixon18\\Fontawesome\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
