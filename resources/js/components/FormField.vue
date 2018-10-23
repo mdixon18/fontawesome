@@ -107,7 +107,7 @@
                 for (let i in arr[key]) {
                     let icon = arr[key][i];
 
-                    if (icon.iconName && icon.prefix && icon.iconName != 'font-awesome-logo-full') {
+                    if (this.canShowIcon(icon)) {
                         icon.show = true;
                         this.icons.push(icon);
                     }
@@ -126,6 +126,29 @@
         },
 
         methods: {
+            canShowIcon(icon) {
+                console.log(icon.iconName);
+                if (! icon.iconName ) {
+                    return false;
+                }
+
+                if (! icon.prefix) {
+                    return false;
+                }
+
+                if (icon.iconName === 'font-awesome-logo-full') {
+                    return false;
+                }
+
+                if (typeof this.field.only !== 'undefined') {
+                    if (this.field.only.indexOf(icon.iconName) === -1) {
+                        return false;
+                    }
+                }
+
+                return true;
+            },
+
             closeModal() {
                 this.modalOpen = false;
             },

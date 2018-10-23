@@ -24,6 +24,15 @@ You can override the text for the field button like so
   Fontawesome::make('Icon')->addButtonText('Click Me!')
 ```
 
+You can limit the icons the user can choose from like so
+```php
+  Fontawesome::make('Icon')->only([
+    'facebook',
+    'twitch',
+    'twitter',
+  ])
+```
+
 ## Support:
 mdixon14717@gmail.com
 

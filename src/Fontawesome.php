@@ -19,4 +19,11 @@ class Fontawesome extends Field
             'add_button_text' => $text
         ]);
     }
+
+    public function only($icons = [])
+    {
+        return $this->withMeta([
+            'only' => $icons
+        ]);
+    }
 }
