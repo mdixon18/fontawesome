@@ -127,7 +127,6 @@
 
         methods: {
             canShowIcon(icon) {
-                console.log(icon.iconName);
                 if (! icon.iconName ) {
                     return false;
                 }
