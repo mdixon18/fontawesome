@@ -13,6 +13,13 @@ class Fontawesome extends Field
      */
     public $component = 'fontawesome';
 
+    public function pro()
+    {
+        return $this->withMeta([
+            'pro' => true
+        ]);
+    }
+
     public function addButtonText($text)
     {
         return $this->withMeta([

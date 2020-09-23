@@ -45,6 +45,11 @@ You can limit the icons the user can choose from like so
   ])
 ```
 
+You can use FontAwesome Pro by doing the following (remember to get your license key!)
+```php
+  Fontawesome::make('Icon')->pro()
+```
+
 ## Support:
 mdixon14717@gmail.com
 
