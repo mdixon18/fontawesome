@@ -20,6 +20,21 @@ class Fontawesome extends Field
         ]);
     }
 
+    public function defaultIcon($type, $icon)
+    {
+        return $this->withMeta([
+            'default_icon_type' => $type,
+            'default_icon' => $icon
+        ]);
+    }
+
+    public function persistDefaultIcon()
+    {
+        return $this->withMeta([
+            'enforce_default_icon' => true
+        ]);
+    }
+
     public function only($icons = [])
     {
         return $this->withMeta([
