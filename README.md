@@ -9,6 +9,20 @@ You can install the package in to a Laravel app that uses Nova via composer:
 composer require mdixon18/fontawesome
 ```
 
+Then copy FontAwesome css and webfonts assets to Laravel public path where this plugin will try to access:
+
+- FontAwesome icon definition : http(s)://{fqdn}/css/all.min.css
+- FontAwesome webfonts : http(s)://{fqdn}/webfonts/{fa-icon}
+
+```bash
+    /public/css/all.min.css
+    /public/webfonts/fa-*.eot
+    /public/webfonts/fa-*.svg
+    /public/webfonts/fa-*.woff
+    /public/webfonts/fa-*.woff2
+    /public/webfonts/fa-*.ttf
+```
+
 ## Usage:
 Add the below to app/Nova resources.
 

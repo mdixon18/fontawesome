@@ -17,6 +17,7 @@ class FieldServiceProvider extends ServiceProvider
     {
         Nova::serving(function (ServingNova $event) {
             Nova::script('fontawesome', __DIR__.'/../dist/js/field.js');
+            Nova::theme(url('/css/all.min.css'));
         });
     }
 

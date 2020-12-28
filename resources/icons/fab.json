@@ -1,0 +1,2292 @@
+{
+    "fa500px": {
+        "iconName": "500px",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAccessibleIcon": {
+        "iconName": "accessible-icon",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAccusoft": {
+        "iconName": "accusoft",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAcquisitionsIncorporated": {
+        "iconName": "acquisitions-incorporated",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAdn": {
+        "iconName": "adn",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAdversal": {
+        "iconName": "adversal",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAffiliatetheme": {
+        "iconName": "affiliatetheme",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAirbnb": {
+        "iconName": "airbnb",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAlgolia": {
+        "iconName": "algolia",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAlipay": {
+        "iconName": "alipay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAmazon": {
+        "iconName": "amazon",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAmazonPay": {
+        "iconName": "amazon-pay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAmilia": {
+        "iconName": "amilia",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAndroid": {
+        "iconName": "android",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAngellist": {
+        "iconName": "angellist",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAngrycreative": {
+        "iconName": "angrycreative",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAngular": {
+        "iconName": "angular",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAppStore": {
+        "iconName": "app-store",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAppStoreIos": {
+        "iconName": "app-store-ios",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faApper": {
+        "iconName": "apper",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faApple": {
+        "iconName": "apple",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faApplePay": {
+        "iconName": "apple-pay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faArtstation": {
+        "iconName": "artstation",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAsymmetrik": {
+        "iconName": "asymmetrik",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAtlassian": {
+        "iconName": "atlassian",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAudible": {
+        "iconName": "audible",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAutoprefixer": {
+        "iconName": "autoprefixer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAvianex": {
+        "iconName": "avianex",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAviato": {
+        "iconName": "aviato",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faAws": {
+        "iconName": "aws",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBandcamp": {
+        "iconName": "bandcamp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBattleNet": {
+        "iconName": "battle-net",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBehance": {
+        "iconName": "behance",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBehanceSquare": {
+        "iconName": "behance-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBimobject": {
+        "iconName": "bimobject",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBitbucket": {
+        "iconName": "bitbucket",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBitcoin": {
+        "iconName": "bitcoin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBity": {
+        "iconName": "bity",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBlackTie": {
+        "iconName": "black-tie",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBlackberry": {
+        "iconName": "blackberry",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBlogger": {
+        "iconName": "blogger",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBloggerB": {
+        "iconName": "blogger-b",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBluetooth": {
+        "iconName": "bluetooth",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBluetoothB": {
+        "iconName": "bluetooth-b",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBootstrap": {
+        "iconName": "bootstrap",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBtc": {
+        "iconName": "btc",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBuffer": {
+        "iconName": "buffer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBuromobelexperte": {
+        "iconName": "buromobelexperte",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBuyNLarge": {
+        "iconName": "buy-n-large",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faBuysellads": {
+        "iconName": "buysellads",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCanadianMapleLeaf": {
+        "iconName": "canadian-maple-leaf",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcAmazonPay": {
+        "iconName": "cc-amazon-pay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcAmex": {
+        "iconName": "cc-amex",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcApplePay": {
+        "iconName": "cc-apple-pay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcDinersClub": {
+        "iconName": "cc-diners-club",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcDiscover": {
+        "iconName": "cc-discover",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcJcb": {
+        "iconName": "cc-jcb",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcMastercard": {
+        "iconName": "cc-mastercard",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcPaypal": {
+        "iconName": "cc-paypal",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcStripe": {
+        "iconName": "cc-stripe",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCcVisa": {
+        "iconName": "cc-visa",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCentercode": {
+        "iconName": "centercode",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCentos": {
+        "iconName": "centos",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faChrome": {
+        "iconName": "chrome",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faChromecast": {
+        "iconName": "chromecast",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCloudflare": {
+        "iconName": "cloudflare",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCloudscale": {
+        "iconName": "cloudscale",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCloudsmith": {
+        "iconName": "cloudsmith",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCloudversify": {
+        "iconName": "cloudversify",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCodepen": {
+        "iconName": "codepen",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCodiepie": {
+        "iconName": "codiepie",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faConfluence": {
+        "iconName": "confluence",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faConnectdevelop": {
+        "iconName": "connectdevelop",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faContao": {
+        "iconName": "contao",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCottonBureau": {
+        "iconName": "cotton-bureau",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCpanel": {
+        "iconName": "cpanel",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommons": {
+        "iconName": "creative-commons",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsBy": {
+        "iconName": "creative-commons-by",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsNc": {
+        "iconName": "creative-commons-nc",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsNcEu": {
+        "iconName": "creative-commons-nc-eu",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsNcJp": {
+        "iconName": "creative-commons-nc-jp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsNd": {
+        "iconName": "creative-commons-nd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsPd": {
+        "iconName": "creative-commons-pd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsPdAlt": {
+        "iconName": "creative-commons-pd-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsRemix": {
+        "iconName": "creative-commons-remix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsSa": {
+        "iconName": "creative-commons-sa",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsSampling": {
+        "iconName": "creative-commons-sampling",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsSamplingPlus": {
+        "iconName": "creative-commons-sampling-plus",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsShare": {
+        "iconName": "creative-commons-share",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCreativeCommonsZero": {
+        "iconName": "creative-commons-zero",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCriticalRole": {
+        "iconName": "critical-role",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCss3": {
+        "iconName": "css3",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCss3Alt": {
+        "iconName": "css3-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faCuttlefish": {
+        "iconName": "cuttlefish",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDAndD": {
+        "iconName": "d-and-d",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDAndDBeyond": {
+        "iconName": "d-and-d-beyond",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDailymotion": {
+        "iconName": "dailymotion",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDashcube": {
+        "iconName": "dashcube",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDeezer": {
+        "iconName": "deezer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDelicious": {
+        "iconName": "delicious",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDeploydog": {
+        "iconName": "deploydog",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDeskpro": {
+        "iconName": "deskpro",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDev": {
+        "iconName": "dev",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDeviantart": {
+        "iconName": "deviantart",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDhl": {
+        "iconName": "dhl",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDiaspora": {
+        "iconName": "diaspora",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDigg": {
+        "iconName": "digg",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDigitalOcean": {
+        "iconName": "digital-ocean",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDiscord": {
+        "iconName": "discord",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDiscourse": {
+        "iconName": "discourse",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDochub": {
+        "iconName": "dochub",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDocker": {
+        "iconName": "docker",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDraft2digital": {
+        "iconName": "draft2digital",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDribbble": {
+        "iconName": "dribbble",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDribbbleSquare": {
+        "iconName": "dribbble-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDropbox": {
+        "iconName": "dropbox",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDrupal": {
+        "iconName": "drupal",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faDyalog": {
+        "iconName": "dyalog",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEarlybirds": {
+        "iconName": "earlybirds",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEbay": {
+        "iconName": "ebay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEdge": {
+        "iconName": "edge",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEdgeLegacy": {
+        "iconName": "edge-legacy",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faElementor": {
+        "iconName": "elementor",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEllo": {
+        "iconName": "ello",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEmber": {
+        "iconName": "ember",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEmpire": {
+        "iconName": "empire",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEnvira": {
+        "iconName": "envira",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faErlang": {
+        "iconName": "erlang",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEthereum": {
+        "iconName": "ethereum",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEtsy": {
+        "iconName": "etsy",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faEvernote": {
+        "iconName": "evernote",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faExpeditedssl": {
+        "iconName": "expeditedssl",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFacebook": {
+        "iconName": "facebook",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFacebookF": {
+        "iconName": "facebook-f",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFacebookMessenger": {
+        "iconName": "facebook-messenger",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFacebookSquare": {
+        "iconName": "facebook-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFantasyFlightGames": {
+        "iconName": "fantasy-flight-games",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFedex": {
+        "iconName": "fedex",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFedora": {
+        "iconName": "fedora",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFigma": {
+        "iconName": "figma",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFirefox": {
+        "iconName": "firefox",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFirefoxBrowser": {
+        "iconName": "firefox-browser",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFirstOrder": {
+        "iconName": "first-order",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFirstOrderAlt": {
+        "iconName": "first-order-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFirstdraft": {
+        "iconName": "firstdraft",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFlickr": {
+        "iconName": "flickr",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFlipboard": {
+        "iconName": "flipboard",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFly": {
+        "iconName": "fly",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFontAwesome": {
+        "iconName": "font-awesome",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFontAwesomeAlt": {
+        "iconName": "font-awesome-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFontAwesomeFlag": {
+        "iconName": "font-awesome-flag",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFontAwesomeLogoFull": {
+        "iconName": "font-awesome-logo-full",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFonticons": {
+        "iconName": "fonticons",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFonticonsFi": {
+        "iconName": "fonticons-fi",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFortAwesome": {
+        "iconName": "fort-awesome",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFortAwesomeAlt": {
+        "iconName": "fort-awesome-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faForumbee": {
+        "iconName": "forumbee",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFoursquare": {
+        "iconName": "foursquare",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFreeCodeCamp": {
+        "iconName": "free-code-camp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFreebsd": {
+        "iconName": "freebsd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faFulcrum": {
+        "iconName": "fulcrum",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGalacticRepublic": {
+        "iconName": "galactic-republic",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGalacticSenate": {
+        "iconName": "galactic-senate",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGetPocket": {
+        "iconName": "get-pocket",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGg": {
+        "iconName": "gg",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGgCircle": {
+        "iconName": "gg-circle",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGit": {
+        "iconName": "git",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGitAlt": {
+        "iconName": "git-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGitSquare": {
+        "iconName": "git-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGithub": {
+        "iconName": "github",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGithubAlt": {
+        "iconName": "github-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGithubSquare": {
+        "iconName": "github-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGitkraken": {
+        "iconName": "gitkraken",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGitlab": {
+        "iconName": "gitlab",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGitter": {
+        "iconName": "gitter",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGlide": {
+        "iconName": "glide",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGlideG": {
+        "iconName": "glide-g",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGofore": {
+        "iconName": "gofore",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGoodreads": {
+        "iconName": "goodreads",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGoodreadsG": {
+        "iconName": "goodreads-g",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGoogle": {
+        "iconName": "google",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGoogleDrive": {
+        "iconName": "google-drive",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGooglePay": {
+        "iconName": "google-pay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGooglePlay": {
+        "iconName": "google-play",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGooglePlus": {
+        "iconName": "google-plus",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGooglePlusG": {
+        "iconName": "google-plus-g",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGooglePlusSquare": {
+        "iconName": "google-plus-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGoogleWallet": {
+        "iconName": "google-wallet",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGratipay": {
+        "iconName": "gratipay",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGrav": {
+        "iconName": "grav",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGripfire": {
+        "iconName": "gripfire",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGrunt": {
+        "iconName": "grunt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGuilded": {
+        "iconName": "guilded",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faGulp": {
+        "iconName": "gulp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHackerNews": {
+        "iconName": "hacker-news",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHackerNewsSquare": {
+        "iconName": "hacker-news-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHackerrank": {
+        "iconName": "hackerrank",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHips": {
+        "iconName": "hips",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHireAHelper": {
+        "iconName": "hire-a-helper",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHive": {
+        "iconName": "hive",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHooli": {
+        "iconName": "hooli",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHornbill": {
+        "iconName": "hornbill",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHotjar": {
+        "iconName": "hotjar",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHouzz": {
+        "iconName": "houzz",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHtml5": {
+        "iconName": "html5",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faHubspot": {
+        "iconName": "hubspot",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faIdeal": {
+        "iconName": "ideal",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faImdb": {
+        "iconName": "imdb",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInnosoft": {
+        "iconName": "innosoft",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInstagram": {
+        "iconName": "instagram",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInstagramSquare": {
+        "iconName": "instagram-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInstalod": {
+        "iconName": "instalod",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faIntercom": {
+        "iconName": "intercom",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInternetExplorer": {
+        "iconName": "internet-explorer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faInvision": {
+        "iconName": "invision",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faIoxhost": {
+        "iconName": "ioxhost",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faItchIo": {
+        "iconName": "itch-io",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faItunes": {
+        "iconName": "itunes",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faItunesNote": {
+        "iconName": "itunes-note",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJava": {
+        "iconName": "java",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJediOrder": {
+        "iconName": "jedi-order",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJenkins": {
+        "iconName": "jenkins",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJira": {
+        "iconName": "jira",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJoget": {
+        "iconName": "joget",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJoomla": {
+        "iconName": "joomla",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJs": {
+        "iconName": "js",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJsSquare": {
+        "iconName": "js-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faJsfiddle": {
+        "iconName": "jsfiddle",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKaggle": {
+        "iconName": "kaggle",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKeybase": {
+        "iconName": "keybase",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKeycdn": {
+        "iconName": "keycdn",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKickstarter": {
+        "iconName": "kickstarter",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKickstarterK": {
+        "iconName": "kickstarter-k",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faKorvue": {
+        "iconName": "korvue",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLaravel": {
+        "iconName": "laravel",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLastfm": {
+        "iconName": "lastfm",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLastfmSquare": {
+        "iconName": "lastfm-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLeanpub": {
+        "iconName": "leanpub",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLess": {
+        "iconName": "less",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLine": {
+        "iconName": "line",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLinkedin": {
+        "iconName": "linkedin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLinkedinIn": {
+        "iconName": "linkedin-in",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLinode": {
+        "iconName": "linode",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLinux": {
+        "iconName": "linux",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faLyft": {
+        "iconName": "lyft",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMagento": {
+        "iconName": "magento",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMailchimp": {
+        "iconName": "mailchimp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMandalorian": {
+        "iconName": "mandalorian",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMarkdown": {
+        "iconName": "markdown",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMastodon": {
+        "iconName": "mastodon",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMaxcdn": {
+        "iconName": "maxcdn",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMdb": {
+        "iconName": "mdb",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMedapps": {
+        "iconName": "medapps",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMedium": {
+        "iconName": "medium",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMediumM": {
+        "iconName": "medium-m",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMedrt": {
+        "iconName": "medrt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMeetup": {
+        "iconName": "meetup",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMegaport": {
+        "iconName": "megaport",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMendeley": {
+        "iconName": "mendeley",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMicroblog": {
+        "iconName": "microblog",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMicrosoft": {
+        "iconName": "microsoft",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMix": {
+        "iconName": "mix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMixcloud": {
+        "iconName": "mixcloud",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMixer": {
+        "iconName": "mixer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMizuni": {
+        "iconName": "mizuni",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faModx": {
+        "iconName": "modx",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faMonero": {
+        "iconName": "monero",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNapster": {
+        "iconName": "napster",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNeos": {
+        "iconName": "neos",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNimblr": {
+        "iconName": "nimblr",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNode": {
+        "iconName": "node",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNodeJs": {
+        "iconName": "node-js",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNpm": {
+        "iconName": "npm",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNs8": {
+        "iconName": "ns8",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faNutritionix": {
+        "iconName": "nutritionix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOctopusDeploy": {
+        "iconName": "octopus-deploy",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOdnoklassniki": {
+        "iconName": "odnoklassniki",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOdnoklassnikiSquare": {
+        "iconName": "odnoklassniki-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOldRepublic": {
+        "iconName": "old-republic",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOpencart": {
+        "iconName": "opencart",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOpenid": {
+        "iconName": "openid",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOpera": {
+        "iconName": "opera",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOptinMonster": {
+        "iconName": "optin-monster",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOrcid": {
+        "iconName": "orcid",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faOsi": {
+        "iconName": "osi",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPage4": {
+        "iconName": "page4",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPagelines": {
+        "iconName": "pagelines",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPalfed": {
+        "iconName": "palfed",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPatreon": {
+        "iconName": "patreon",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPaypal": {
+        "iconName": "paypal",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPennyArcade": {
+        "iconName": "penny-arcade",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPerbyte": {
+        "iconName": "perbyte",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPeriscope": {
+        "iconName": "periscope",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPhabricator": {
+        "iconName": "phabricator",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPhoenixFramework": {
+        "iconName": "phoenix-framework",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPhoenixSquadron": {
+        "iconName": "phoenix-squadron",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPhp": {
+        "iconName": "php",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPiedPiper": {
+        "iconName": "pied-piper",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPiedPiperAlt": {
+        "iconName": "pied-piper-alt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPiedPiperHat": {
+        "iconName": "pied-piper-hat",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPiedPiperPp": {
+        "iconName": "pied-piper-pp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPiedPiperSquare": {
+        "iconName": "pied-piper-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPinterest": {
+        "iconName": "pinterest",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPinterestP": {
+        "iconName": "pinterest-p",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPinterestSquare": {
+        "iconName": "pinterest-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPlaystation": {
+        "iconName": "playstation",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faProductHunt": {
+        "iconName": "product-hunt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPushed": {
+        "iconName": "pushed",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faPython": {
+        "iconName": "python",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faQq": {
+        "iconName": "qq",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faQuinscape": {
+        "iconName": "quinscape",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faQuora": {
+        "iconName": "quora",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRProject": {
+        "iconName": "r-project",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRaspberryPi": {
+        "iconName": "raspberry-pi",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRavelry": {
+        "iconName": "ravelry",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faReact": {
+        "iconName": "react",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faReacteurope": {
+        "iconName": "reacteurope",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faReadme": {
+        "iconName": "readme",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRebel": {
+        "iconName": "rebel",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRedRiver": {
+        "iconName": "red-river",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faReddit": {
+        "iconName": "reddit",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRedditAlien": {
+        "iconName": "reddit-alien",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRedditSquare": {
+        "iconName": "reddit-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRedhat": {
+        "iconName": "redhat",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRenren": {
+        "iconName": "renren",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faReplyd": {
+        "iconName": "replyd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faResearchgate": {
+        "iconName": "researchgate",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faResolving": {
+        "iconName": "resolving",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRev": {
+        "iconName": "rev",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRocketchat": {
+        "iconName": "rocketchat",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRockrms": {
+        "iconName": "rockrms",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faRust": {
+        "iconName": "rust",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSafari": {
+        "iconName": "safari",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSalesforce": {
+        "iconName": "salesforce",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSass": {
+        "iconName": "sass",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSchlix": {
+        "iconName": "schlix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faScribd": {
+        "iconName": "scribd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSearchengin": {
+        "iconName": "searchengin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSellcast": {
+        "iconName": "sellcast",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSellsy": {
+        "iconName": "sellsy",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faServicestack": {
+        "iconName": "servicestack",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faShirtsinbulk": {
+        "iconName": "shirtsinbulk",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faShopify": {
+        "iconName": "shopify",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faShopware": {
+        "iconName": "shopware",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSimplybuilt": {
+        "iconName": "simplybuilt",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSistrix": {
+        "iconName": "sistrix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSith": {
+        "iconName": "sith",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSketch": {
+        "iconName": "sketch",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSkyatlas": {
+        "iconName": "skyatlas",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSkype": {
+        "iconName": "skype",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSlack": {
+        "iconName": "slack",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSlackHash": {
+        "iconName": "slack-hash",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSlideshare": {
+        "iconName": "slideshare",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSnapchat": {
+        "iconName": "snapchat",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSnapchatGhost": {
+        "iconName": "snapchat-ghost",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSnapchatSquare": {
+        "iconName": "snapchat-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSoundcloud": {
+        "iconName": "soundcloud",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSourcetree": {
+        "iconName": "sourcetree",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSpeakap": {
+        "iconName": "speakap",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSpeakerDeck": {
+        "iconName": "speaker-deck",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSpotify": {
+        "iconName": "spotify",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSquarespace": {
+        "iconName": "squarespace",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStackExchange": {
+        "iconName": "stack-exchange",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStackOverflow": {
+        "iconName": "stack-overflow",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStackpath": {
+        "iconName": "stackpath",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStaylinked": {
+        "iconName": "staylinked",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSteam": {
+        "iconName": "steam",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSteamSquare": {
+        "iconName": "steam-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSteamSymbol": {
+        "iconName": "steam-symbol",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStickerMule": {
+        "iconName": "sticker-mule",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStrava": {
+        "iconName": "strava",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStripe": {
+        "iconName": "stripe",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStripeS": {
+        "iconName": "stripe-s",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStudiovinari": {
+        "iconName": "studiovinari",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStumbleupon": {
+        "iconName": "stumbleupon",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faStumbleuponCircle": {
+        "iconName": "stumbleupon-circle",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSuperpowers": {
+        "iconName": "superpowers",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSupple": {
+        "iconName": "supple",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSuse": {
+        "iconName": "suse",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSwift": {
+        "iconName": "swift",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faSymfony": {
+        "iconName": "symfony",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTeamspeak": {
+        "iconName": "teamspeak",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTelegram": {
+        "iconName": "telegram",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTelegramPlane": {
+        "iconName": "telegram-plane",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTencentWeibo": {
+        "iconName": "tencent-weibo",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTheRedYeti": {
+        "iconName": "the-red-yeti",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faThemeco": {
+        "iconName": "themeco",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faThemeisle": {
+        "iconName": "themeisle",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faThinkPeaks": {
+        "iconName": "think-peaks",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTiktok": {
+        "iconName": "tiktok",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTradeFederation": {
+        "iconName": "trade-federation",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTrello": {
+        "iconName": "trello",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTripadvisor": {
+        "iconName": "tripadvisor",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTumblr": {
+        "iconName": "tumblr",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTumblrSquare": {
+        "iconName": "tumblr-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTwitch": {
+        "iconName": "twitch",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTwitter": {
+        "iconName": "twitter",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTwitterSquare": {
+        "iconName": "twitter-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faTypo3": {
+        "iconName": "typo3",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUber": {
+        "iconName": "uber",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUbuntu": {
+        "iconName": "ubuntu",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUikit": {
+        "iconName": "uikit",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUmbraco": {
+        "iconName": "umbraco",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUncharted": {
+        "iconName": "uncharted",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUniregistry": {
+        "iconName": "uniregistry",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUnity": {
+        "iconName": "unity",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUnsplash": {
+        "iconName": "unsplash",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUntappd": {
+        "iconName": "untappd",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUps": {
+        "iconName": "ups",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUsb": {
+        "iconName": "usb",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUsps": {
+        "iconName": "usps",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faUssunnah": {
+        "iconName": "ussunnah",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVaadin": {
+        "iconName": "vaadin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faViacoin": {
+        "iconName": "viacoin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faViadeo": {
+        "iconName": "viadeo",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faViadeoSquare": {
+        "iconName": "viadeo-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faViber": {
+        "iconName": "viber",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVimeo": {
+        "iconName": "vimeo",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVimeoSquare": {
+        "iconName": "vimeo-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVimeoV": {
+        "iconName": "vimeo-v",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVine": {
+        "iconName": "vine",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVk": {
+        "iconName": "vk",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVnv": {
+        "iconName": "vnv",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faVuejs": {
+        "iconName": "vuejs",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWatchmanMonitoring": {
+        "iconName": "watchman-monitoring",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWaze": {
+        "iconName": "waze",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWeebly": {
+        "iconName": "weebly",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWeibo": {
+        "iconName": "weibo",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWeixin": {
+        "iconName": "weixin",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWhatsapp": {
+        "iconName": "whatsapp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWhatsappSquare": {
+        "iconName": "whatsapp-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWhmcs": {
+        "iconName": "whmcs",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWikipediaW": {
+        "iconName": "wikipedia-w",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWindows": {
+        "iconName": "windows",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWix": {
+        "iconName": "wix",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWizardsOfTheCoast": {
+        "iconName": "wizards-of-the-coast",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWodu": {
+        "iconName": "wodu",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWolfPackBattalion": {
+        "iconName": "wolf-pack-battalion",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWordpress": {
+        "iconName": "wordpress",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWordpressSimple": {
+        "iconName": "wordpress-simple",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWpbeginner": {
+        "iconName": "wpbeginner",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWpexplorer": {
+        "iconName": "wpexplorer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWpforms": {
+        "iconName": "wpforms",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faWpressr": {
+        "iconName": "wpressr",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faXbox": {
+        "iconName": "xbox",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faXing": {
+        "iconName": "xing",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faXingSquare": {
+        "iconName": "xing-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYCombinator": {
+        "iconName": "y-combinator",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYahoo": {
+        "iconName": "yahoo",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYammer": {
+        "iconName": "yammer",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYandex": {
+        "iconName": "yandex",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYandexInternational": {
+        "iconName": "yandex-international",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYarn": {
+        "iconName": "yarn",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYelp": {
+        "iconName": "yelp",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYoast": {
+        "iconName": "yoast",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYoutube": {
+        "iconName": "youtube",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faYoutubeSquare": {
+        "iconName": "youtube-square",
+        "prefix": "fab",
+        "icon": []
+    },
+    "faZhihu": {
+        "iconName": "zhihu",
+        "prefix": "fab",
+        "icon": []
+    }
+}
