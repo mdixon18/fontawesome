@@ -61,7 +61,7 @@
                 <div
                   v-for="icon in icons"
                   v-if="((filter.type == '' || filter.type == 'all') || (filter.type == icon.prefix)) && icon.show"
-                  class="flex items-center justify-center text-center px-2 w-1/4 cursor-pointer mb-4"
+                  class="inner flex items-center justify-center text-center px-2 w-1/4 cursor-pointer mb-4"
                   style="outline: 1px solid #e0e0e0;outline-offset: -.5rem;"
                   @click="saveIcon(icon)"
                 >
@@ -111,33 +111,27 @@ export default {
 
   beforeMount() {
     let arr = {};
-    const { library } = require("@fortawesome/fontawesome-svg-core");
-    const fab = require("@fortawesome/free-brands-svg-icons").fab;
+
+    const fab = require('../../icons/fab.json');
+    arr.fab = fab;
 
     if (this.pro) {
-      const fas = require("@fortawesome/pro-solid-svg-icons").fas;
-      const far = require("@fortawesome/pro-regular-svg-icons").far;
-      const fal = require("@fortawesome/pro-light-svg-icons").fal;
-      const fad = require("@fortawesome/pro-duotone-svg-icons").fad;
-      require("@fortawesome/fontawesome-pro/js/fontawesome.js");
-
-      library.add(fas, far, fab, fal, fad);
+      const fas = require('../../icons/fas_pro.json');
+      const far = require('../../icons/far_pro.json');
+      const fal = require('../../icons/fal_pro.json');
+      const fad = require('../../icons/fad_pro.json');
 
       arr.far = far;
       arr.fas = fas;
-      arr.fab = fab;
       arr.fal = fal;
       arr.fad = fad;
-    } else {
-      const fas = require("@fortawesome/free-solid-svg-icons").fas;
-      const far = require("@fortawesome/free-regular-svg-icons").far;
-      require("@fortawesome/fontawesome-free/js/fontawesome.js");
 
-      library.add(fas, far, fab);
+    } else {
+      const fas = require('../../icons/fas.json');
+      const far = require('../../icons/far.json');
 
       arr.far = far;
       arr.fas = fas;
-      arr.fab = fab;
     }
 
     for (let key in arr) {
@@ -380,10 +374,11 @@ export default {
 </script>
 
 <style>
-.display-icon svg {
-  width: 4rem;
-  height: 4rem;
+
+.fontawesome-modal .inner i {
+  font-size: 3rem;
 }
+
 .display-icon i {
   font-size: 4rem;
 }
@@ -410,30 +405,8 @@ export default {
   opacity: 1;
 }
 
-.close-icon svg {
-  width: 1.5rem !important;
-  height: 1.5rem !important;
-}
-
 .close-icon i {
   font-size: 1.5rem !important;
-}
-
-.svg-inline--fa.fa-w-12 > path,
-.svg-inline--fa.fa-w-14 > path,
-.svg-inline--fa.fa-w-16 > path,
-.svg-inline--fa.fa-w-18 > path,
-.svg-inline--fa.fa-w-20 > path {
-  fill: #3c4655;
-}
-
-.svg-inline--fa.fa-w-12,
-.svg-inline--fa.fa-w-14,
-.svg-inline--fa.fa-w-16,
-.svg-inline--fa.fa-w-18,
-.svg-inline--fa.fa-w-20 {
-  width: 1.75em;
-  height: 2em;
 }
 
 .svg-inline--fa.fa-w-20 {

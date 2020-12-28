@@ -1,0 +1,762 @@
+{
+    "faAddressBook": {
+        "iconName": "address-book",
+        "prefix": "far",
+        "icon": []
+    },
+    "faAddressCard": {
+        "iconName": "address-card",
+        "prefix": "far",
+        "icon": []
+    },
+    "faAngry": {
+        "iconName": "angry",
+        "prefix": "far",
+        "icon": []
+    },
+    "faArrowAltCircleDown": {
+        "iconName": "arrow-alt-circle-down",
+        "prefix": "far",
+        "icon": []
+    },
+    "faArrowAltCircleLeft": {
+        "iconName": "arrow-alt-circle-left",
+        "prefix": "far",
+        "icon": []
+    },
+    "faArrowAltCircleRight": {
+        "iconName": "arrow-alt-circle-right",
+        "prefix": "far",
+        "icon": []
+    },
+    "faArrowAltCircleUp": {
+        "iconName": "arrow-alt-circle-up",
+        "prefix": "far",
+        "icon": []
+    },
+    "faBell": {
+        "iconName": "bell",
+        "prefix": "far",
+        "icon": []
+    },
+    "faBellSlash": {
+        "iconName": "bell-slash",
+        "prefix": "far",
+        "icon": []
+    },
+    "faBookmark": {
+        "iconName": "bookmark",
+        "prefix": "far",
+        "icon": []
+    },
+    "faBuilding": {
+        "iconName": "building",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendar": {
+        "iconName": "calendar",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendarAlt": {
+        "iconName": "calendar-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendarCheck": {
+        "iconName": "calendar-check",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendarMinus": {
+        "iconName": "calendar-minus",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendarPlus": {
+        "iconName": "calendar-plus",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCalendarTimes": {
+        "iconName": "calendar-times",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCaretSquareDown": {
+        "iconName": "caret-square-down",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCaretSquareLeft": {
+        "iconName": "caret-square-left",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCaretSquareRight": {
+        "iconName": "caret-square-right",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCaretSquareUp": {
+        "iconName": "caret-square-up",
+        "prefix": "far",
+        "icon": []
+    },
+    "faChartBar": {
+        "iconName": "chart-bar",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCheckCircle": {
+        "iconName": "check-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCheckSquare": {
+        "iconName": "check-square",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCircle": {
+        "iconName": "circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faClipboard": {
+        "iconName": "clipboard",
+        "prefix": "far",
+        "icon": []
+    },
+    "faClock": {
+        "iconName": "clock",
+        "prefix": "far",
+        "icon": []
+    },
+    "faClone": {
+        "iconName": "clone",
+        "prefix": "far",
+        "icon": []
+    },
+    "faClosedCaptioning": {
+        "iconName": "closed-captioning",
+        "prefix": "far",
+        "icon": []
+    },
+    "faComment": {
+        "iconName": "comment",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCommentAlt": {
+        "iconName": "comment-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCommentDots": {
+        "iconName": "comment-dots",
+        "prefix": "far",
+        "icon": []
+    },
+    "faComments": {
+        "iconName": "comments",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCompass": {
+        "iconName": "compass",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCopy": {
+        "iconName": "copy",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCopyright": {
+        "iconName": "copyright",
+        "prefix": "far",
+        "icon": []
+    },
+    "faCreditCard": {
+        "iconName": "credit-card",
+        "prefix": "far",
+        "icon": []
+    },
+    "faDizzy": {
+        "iconName": "dizzy",
+        "prefix": "far",
+        "icon": []
+    },
+    "faDotCircle": {
+        "iconName": "dot-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faEdit": {
+        "iconName": "edit",
+        "prefix": "far",
+        "icon": []
+    },
+    "faEnvelope": {
+        "iconName": "envelope",
+        "prefix": "far",
+        "icon": []
+    },
+    "faEnvelopeOpen": {
+        "iconName": "envelope-open",
+        "prefix": "far",
+        "icon": []
+    },
+    "faEye": {
+        "iconName": "eye",
+        "prefix": "far",
+        "icon": []
+    },
+    "faEyeSlash": {
+        "iconName": "eye-slash",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFile": {
+        "iconName": "file",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileAlt": {
+        "iconName": "file-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileArchive": {
+        "iconName": "file-archive",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileAudio": {
+        "iconName": "file-audio",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileCode": {
+        "iconName": "file-code",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileExcel": {
+        "iconName": "file-excel",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileImage": {
+        "iconName": "file-image",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFilePdf": {
+        "iconName": "file-pdf",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFilePowerpoint": {
+        "iconName": "file-powerpoint",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileVideo": {
+        "iconName": "file-video",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFileWord": {
+        "iconName": "file-word",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFlag": {
+        "iconName": "flag",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFlushed": {
+        "iconName": "flushed",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFolder": {
+        "iconName": "folder",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFolderOpen": {
+        "iconName": "folder-open",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFontAwesomeLogoFull": {
+        "iconName": "font-awesome-logo-full",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFrown": {
+        "iconName": "frown",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFrownOpen": {
+        "iconName": "frown-open",
+        "prefix": "far",
+        "icon": []
+    },
+    "faFutbol": {
+        "iconName": "futbol",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGem": {
+        "iconName": "gem",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrimace": {
+        "iconName": "grimace",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrin": {
+        "iconName": "grin",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinAlt": {
+        "iconName": "grin-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinBeam": {
+        "iconName": "grin-beam",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinBeamSweat": {
+        "iconName": "grin-beam-sweat",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinHearts": {
+        "iconName": "grin-hearts",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinSquint": {
+        "iconName": "grin-squint",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinSquintTears": {
+        "iconName": "grin-squint-tears",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinStars": {
+        "iconName": "grin-stars",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinTears": {
+        "iconName": "grin-tears",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinTongue": {
+        "iconName": "grin-tongue",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinTongueSquint": {
+        "iconName": "grin-tongue-squint",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinTongueWink": {
+        "iconName": "grin-tongue-wink",
+        "prefix": "far",
+        "icon": []
+    },
+    "faGrinWink": {
+        "iconName": "grin-wink",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandLizard": {
+        "iconName": "hand-lizard",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPaper": {
+        "iconName": "hand-paper",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPeace": {
+        "iconName": "hand-peace",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPointDown": {
+        "iconName": "hand-point-down",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPointLeft": {
+        "iconName": "hand-point-left",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPointRight": {
+        "iconName": "hand-point-right",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPointUp": {
+        "iconName": "hand-point-up",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandPointer": {
+        "iconName": "hand-pointer",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandRock": {
+        "iconName": "hand-rock",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandScissors": {
+        "iconName": "hand-scissors",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandSpock": {
+        "iconName": "hand-spock",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHandshake": {
+        "iconName": "handshake",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHdd": {
+        "iconName": "hdd",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHeart": {
+        "iconName": "heart",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHospital": {
+        "iconName": "hospital",
+        "prefix": "far",
+        "icon": []
+    },
+    "faHourglass": {
+        "iconName": "hourglass",
+        "prefix": "far",
+        "icon": []
+    },
+    "faIdBadge": {
+        "iconName": "id-badge",
+        "prefix": "far",
+        "icon": []
+    },
+    "faIdCard": {
+        "iconName": "id-card",
+        "prefix": "far",
+        "icon": []
+    },
+    "faImage": {
+        "iconName": "image",
+        "prefix": "far",
+        "icon": []
+    },
+    "faImages": {
+        "iconName": "images",
+        "prefix": "far",
+        "icon": []
+    },
+    "faKeyboard": {
+        "iconName": "keyboard",
+        "prefix": "far",
+        "icon": []
+    },
+    "faKiss": {
+        "iconName": "kiss",
+        "prefix": "far",
+        "icon": []
+    },
+    "faKissBeam": {
+        "iconName": "kiss-beam",
+        "prefix": "far",
+        "icon": []
+    },
+    "faKissWinkHeart": {
+        "iconName": "kiss-wink-heart",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLaugh": {
+        "iconName": "laugh",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLaughBeam": {
+        "iconName": "laugh-beam",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLaughSquint": {
+        "iconName": "laugh-squint",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLaughWink": {
+        "iconName": "laugh-wink",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLemon": {
+        "iconName": "lemon",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLifeRing": {
+        "iconName": "life-ring",
+        "prefix": "far",
+        "icon": []
+    },
+    "faLightbulb": {
+        "iconName": "lightbulb",
+        "prefix": "far",
+        "icon": []
+    },
+    "faListAlt": {
+        "iconName": "list-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMap": {
+        "iconName": "map",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMeh": {
+        "iconName": "meh",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMehBlank": {
+        "iconName": "meh-blank",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMehRollingEyes": {
+        "iconName": "meh-rolling-eyes",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMinusSquare": {
+        "iconName": "minus-square",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMoneyBillAlt": {
+        "iconName": "money-bill-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faMoon": {
+        "iconName": "moon",
+        "prefix": "far",
+        "icon": []
+    },
+    "faNewspaper": {
+        "iconName": "newspaper",
+        "prefix": "far",
+        "icon": []
+    },
+    "faObjectGroup": {
+        "iconName": "object-group",
+        "prefix": "far",
+        "icon": []
+    },
+    "faObjectUngroup": {
+        "iconName": "object-ungroup",
+        "prefix": "far",
+        "icon": []
+    },
+    "faPaperPlane": {
+        "iconName": "paper-plane",
+        "prefix": "far",
+        "icon": []
+    },
+    "faPauseCircle": {
+        "iconName": "pause-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faPlayCircle": {
+        "iconName": "play-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faPlusSquare": {
+        "iconName": "plus-square",
+        "prefix": "far",
+        "icon": []
+    },
+    "faQuestionCircle": {
+        "iconName": "question-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faRegistered": {
+        "iconName": "registered",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSadCry": {
+        "iconName": "sad-cry",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSadTear": {
+        "iconName": "sad-tear",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSave": {
+        "iconName": "save",
+        "prefix": "far",
+        "icon": []
+    },
+    "faShareSquare": {
+        "iconName": "share-square",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSmile": {
+        "iconName": "smile",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSmileBeam": {
+        "iconName": "smile-beam",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSmileWink": {
+        "iconName": "smile-wink",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSnowflake": {
+        "iconName": "snowflake",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSquare": {
+        "iconName": "square",
+        "prefix": "far",
+        "icon": []
+    },
+    "faStar": {
+        "iconName": "star",
+        "prefix": "far",
+        "icon": []
+    },
+    "faStarHalf": {
+        "iconName": "star-half",
+        "prefix": "far",
+        "icon": []
+    },
+    "faStickyNote": {
+        "iconName": "sticky-note",
+        "prefix": "far",
+        "icon": []
+    },
+    "faStopCircle": {
+        "iconName": "stop-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSun": {
+        "iconName": "sun",
+        "prefix": "far",
+        "icon": []
+    },
+    "faSurprise": {
+        "iconName": "surprise",
+        "prefix": "far",
+        "icon": []
+    },
+    "faThumbsDown": {
+        "iconName": "thumbs-down",
+        "prefix": "far",
+        "icon": []
+    },
+    "faThumbsUp": {
+        "iconName": "thumbs-up",
+        "prefix": "far",
+        "icon": []
+    },
+    "faTimesCircle": {
+        "iconName": "times-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faTired": {
+        "iconName": "tired",
+        "prefix": "far",
+        "icon": []
+    },
+    "faTrashAlt": {
+        "iconName": "trash-alt",
+        "prefix": "far",
+        "icon": []
+    },
+    "faUser": {
+        "iconName": "user",
+        "prefix": "far",
+        "icon": []
+    },
+    "faUserCircle": {
+        "iconName": "user-circle",
+        "prefix": "far",
+        "icon": []
+    },
+    "faWindowClose": {
+        "iconName": "window-close",
+        "prefix": "far",
+        "icon": []
+    },
+    "faWindowMaximize": {
+        "iconName": "window-maximize",
+        "prefix": "far",
+        "icon": []
+    },
+    "faWindowMinimize": {
+        "iconName": "window-minimize",
+        "prefix": "far",
+        "icon": []
+    },
+    "faWindowRestore": {
+        "iconName": "window-restore",
+        "prefix": "far",
+        "icon": []
+    }
+}
