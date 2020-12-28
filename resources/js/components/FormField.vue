@@ -61,7 +61,7 @@
                 <div
                   v-for="icon in icons"
                   v-if="((filter.type == '' || filter.type == 'all') || (filter.type == icon.prefix)) && icon.show"
-                  class="flex items-center justify-center text-center px-2 w-1/4 cursor-pointer mb-4"
+                  class="inner flex items-center justify-center text-center px-2 w-1/4 cursor-pointer mb-4"
                   style="outline: 1px solid #e0e0e0;outline-offset: -.5rem;"
                   @click="saveIcon(icon)"
                 >
@@ -113,6 +113,7 @@ export default {
     let arr = {};
 
     const fab = require('../../icons/fab.json');
+    arr.fab = fab;
 
     if (this.pro) {
       const fas = require('../../icons/fas_pro.json');
@@ -122,7 +123,6 @@ export default {
 
       arr.far = far;
       arr.fas = fas;
-      arr.fab = fab;
       arr.fal = fal;
       arr.fad = fad;
 
@@ -132,7 +132,6 @@ export default {
 
       arr.far = far;
       arr.fas = fas;
-      arr.fab = fab;
     }
 
     for (let key in arr) {
@@ -375,10 +374,11 @@ export default {
 </script>
 
 <style>
-.display-icon svg {
-  width: 4rem;
-  height: 4rem;
+
+.fontawesome-modal .inner i {
+  font-size: 3rem;
 }
+
 .display-icon i {
   font-size: 4rem;
 }
